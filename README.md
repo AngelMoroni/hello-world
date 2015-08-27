@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+
+TestGithub is a repository for showing the bare minimums of github and how to manieuver, function, etc.
